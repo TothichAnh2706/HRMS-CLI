@@ -1,0 +1,4 @@
+CandidateID,FullName,Gender,BirthDate,Phone,Email,AppliedPosition,InterviewScore,Status
+CAN001,Le Van Canh,Male,12/05/1998,0987654321,canh.le@gmail.com,POS01,85,Passed
+CAN002,Nguyen Thi Hoa,Female,20/03/2000,0976543210,hoa.nt@gmail.com,POS02,72,Interview
+CAN003,Tran Van Duc,Male,08/11/1999,0965432109,duc.tv@gmail.com,POS01,60,Applied

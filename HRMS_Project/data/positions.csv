@@ -1,0 +1,5 @@
+PositionID,PositionName,AllowanceCoeff
+POS01,Nhan Vien,1.0
+POS02,Truong Nhom,2.0
+POS03,Truong Phong,3.5
+POS04,Giam Doc,5.0

@@ -1,0 +1,3 @@
+RequestID,EmployeeID,StartDate,EndDate,Reason,LeaveType,Status,TotalDays
+LV001,EMP001,10/10/2026,12/10/2026,Viec gia dinh,Paid,Pending,3
+LV002,EMP002,15/10/2026,15/10/2026,Kham benh,Paid,Approved,1
