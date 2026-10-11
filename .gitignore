@@ -98,3 +98,5 @@ $RECYCLE.BIN/
 *.bak
 *.swp
 *~
+# Data files
+HRMS_Project/data

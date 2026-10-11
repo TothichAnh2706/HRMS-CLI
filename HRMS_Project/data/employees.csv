@@ -1,6 +1,0 @@
-EmployeeID,FullName,Gender,BirthDate,Phone,Email,DepartmentID,PositionID,Status,BaseSalaryRate
-EMP001,Nguyen Van An,Male,15/08/1990,0901234567,an.nguyen@company.com,DEP01,POS02,Active,2.5
-EMP002,Tran Thi Bich,Female,20/10/1995,0912345678,bich.tran@company.com,DEP02,POS01,Active,1.8
-EMP003,Le Van Cuong,Male,05/03/1988,0923456789,cuong.le@company.com,DEP01,POS03,Active,3.0
-EMP004,Pham Thi Dung,Female,12/06/1992,0934567890,dung.pham@company.com,DEP03,POS01,Active,1.5
-EMP005,Hoang Van Em,Male,28/11/1985,0945678901,em.hoang@company.com,DEP02,POS04,Resigned,2.0
